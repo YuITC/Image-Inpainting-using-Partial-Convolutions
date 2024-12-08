@@ -1,0 +1,11 @@
+torch==2.5.1+cu124
+torchaudio==2.5.1+cu124
+torchvision==0.20.1+cu124
+tensorboard
+numpy==1.26.3
+pillow==10.2.0
+opencv-python
+tqdm
+matplotlib
+scikit-image
+pyyaml
